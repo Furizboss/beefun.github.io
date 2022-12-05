@@ -1,0 +1,1145 @@
+Uri: https://phylex.space/
+File Name: c:\Downloaded Web Sites\phylex.space\index.htm
+Content Type: text/html
+
+Uri: https://phylex.space/home-2.html
+File Name: c:\Downloaded Web Sites\phylex.space\home-2.html
+Content Type: text/html
+
+Uri: https://phylex.space/favicon.ico
+File Name: c:\Downloaded Web Sites\phylex.space\favicon.ico
+Content Type: 
+
+Uri: https://phylex.space/css/style.min.css
+File Name: c:\Downloaded Web Sites\phylex.space\css\style.min.css
+Content Type: text/css
+
+Uri: https://phylex.space/css/vendors-style.css
+File Name: c:\Downloaded Web Sites\phylex.space\css\vendors-style.css
+Content Type: text/css
+
+Uri: https://phylex.space/css/style.css
+File Name: c:\Downloaded Web Sites\phylex.space\css\style.css
+Content Type: text/css
+
+Uri: https://phylex.space/css/styles.css
+File Name: c:\Downloaded Web Sites\phylex.space\css\styles.css
+Content Type: text/css
+
+Uri: https://phylex.space/css/owl.carousel.min.css
+File Name: c:\Downloaded Web Sites\phylex.space\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://phylex.space/css/ionicons.min.css
+File Name: c:\Downloaded Web Sites\phylex.space\css\ionicons.min.css
+Content Type: text/css
+
+Uri: https://phylex.space/css/flaticon.css
+File Name: c:\Downloaded Web Sites\phylex.space\css\flaticon.css
+Content Type: text/css
+
+Uri: https://phylex.space/css/magnific-popup.min.css
+File Name: c:\Downloaded Web Sites\phylex.space\css\magnific-popup.min.css
+Content Type: text/css
+
+Uri: https://phylex.space/css/block-revealer.css
+File Name: c:\Downloaded Web Sites\phylex.space\css\block-revealer.css
+Content Type: text/css
+
+Uri: https://phylex.space/css/jquery.mCustomScrollbar.min.css
+File Name: c:\Downloaded Web Sites\phylex.space\css\jquery.mCustomScrollbar.min.css
+Content Type: text/css
+
+Uri: https://phylex.space/css/jquery-ui.min.css
+File Name: c:\Downloaded Web Sites\phylex.space\css\jquery-ui.min.css
+Content Type: text/css
+
+Uri: https://phylex.space/css/slider.min.css
+File Name: c:\Downloaded Web Sites\phylex.space\css\slider.min.css
+Content Type: text/css
+
+Uri: https://phylex.space/css/swiper-bundle.min.css
+File Name: c:\Downloaded Web Sites\phylex.space\css\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://phylex.space/css/rs6.css
+File Name: c:\Downloaded Web Sites\phylex.space\css\rs6.css
+Content Type: text/css
+
+Uri: https://phylex.space/css/woocommerce-layout.css
+File Name: c:\Downloaded Web Sites\phylex.space\css\woocommerce-layout.css
+Content Type: text/css
+
+Uri: https://phylex.space/css/woocommerce-smallscreen.css
+File Name: c:\Downloaded Web Sites\phylex.space\css\woocommerce-smallscreen.css
+Content Type: text/css
+
+Uri: https://phylex.space/css/woocommerce_1.css
+File Name: c:\Downloaded Web Sites\phylex.space\css\woocommerce_1.css
+Content Type: text/css
+
+Uri: https://phylex.space/css/elementor-icons.min.css
+File Name: c:\Downloaded Web Sites\phylex.space\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://phylex.space/css/frontend-legacy.min.css
+File Name: c:\Downloaded Web Sites\phylex.space\css\frontend-legacy.min.css
+Content Type: text/css
+
+Uri: https://phylex.space/css/frontend.min.css
+File Name: c:\Downloaded Web Sites\phylex.space\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://phylex.space/css/post-7.css
+File Name: c:\Downloaded Web Sites\phylex.space\css\post-7.css
+Content Type: text/css
+
+Uri: https://phylex.space/css/all.min.css
+File Name: c:\Downloaded Web Sites\phylex.space\css\all.min.css
+Content Type: text/css
+
+Uri: https://phylex.space/css/v4-shims.min.css
+File Name: c:\Downloaded Web Sites\phylex.space\css\v4-shims.min.css
+Content Type: text/css
+
+Uri: https://phylex.space/css/post-248.css
+File Name: c:\Downloaded Web Sites\phylex.space\css\post-248.css
+Content Type: text/css
+
+Uri: https://phylex.space/css/fontawesome.min_1.css
+File Name: c:\Downloaded Web Sites\phylex.space\css\fontawesome.min_1.css
+Content Type: text/css
+
+Uri: https://phylex.space/css/ionicons.min_1.css
+File Name: c:\Downloaded Web Sites\phylex.space\css\ionicons.min_1.css
+Content Type: text/css
+
+Uri: https://phylex.space/css/line-awesome.min.css
+File Name: c:\Downloaded Web Sites\phylex.space\css\line-awesome.min.css
+Content Type: text/css
+
+Uri: https://phylex.space/css/hostingo-loader.css
+File Name: c:\Downloaded Web Sites\phylex.space\css\hostingo-loader.css
+Content Type: text/css
+
+Uri: https://phylex.space/css/bootstrap.min.css
+File Name: c:\Downloaded Web Sites\phylex.space\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://phylex.space/css/animate.min.css
+File Name: c:\Downloaded Web Sites\phylex.space\css\animate.min.css
+Content Type: text/css
+
+Uri: https://phylex.space/css/style_1.css
+File Name: c:\Downloaded Web Sites\phylex.space\css\style_1.css
+Content Type: text/css
+
+Uri: https://phylex.space/css/responsive.css
+File Name: c:\Downloaded Web Sites\phylex.space\css\responsive.css
+Content Type: text/css
+
+Uri: https://phylex.space/css/woocommerce.css
+File Name: c:\Downloaded Web Sites\phylex.space\css\woocommerce.css
+Content Type: text/css
+
+Uri: https://phylex.space/css/fontawesome.min.css
+File Name: c:\Downloaded Web Sites\phylex.space\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://phylex.space/css/solid.min.css
+File Name: c:\Downloaded Web Sites\phylex.space\css\solid.min.css
+Content Type: text/css
+
+Uri: https://phylex.space/order/configurator.html
+File Name: c:\Downloaded Web Sites\phylex.space\order\configurator.html
+Content Type: text/html
+
+Uri: https://phylex.space/css/domaincheck.css
+File Name: c:\Downloaded Web Sites\phylex.space\css\domaincheck.css
+Content Type: text/css
+
+Uri: https://phylex.space/css/animations.min.css
+File Name: c:\Downloaded Web Sites\phylex.space\css\animations.min.css
+Content Type: text/css
+
+Uri: https://phylex.space/js/wp-emoji-release.min.js
+File Name: c:\Downloaded Web Sites\phylex.space\js\wp-emoji-release.min.js
+Content Type: text/javascript
+
+Uri: https://phylex.space/js/jquery.min.js
+File Name: c:\Downloaded Web Sites\phylex.space\js\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://phylex.space/js/rbtools.min.js
+File Name: c:\Downloaded Web Sites\phylex.space\js\rbtools.min.js
+Content Type: text/javascript
+
+Uri: https://phylex.space/js/rs6.min.js
+File Name: c:\Downloaded Web Sites\phylex.space\js\rs6.min.js
+Content Type: text/javascript
+
+Uri: https://phylex.space/js/v4-shims.min.js
+File Name: c:\Downloaded Web Sites\phylex.space\js\v4-shims.min.js
+Content Type: text/javascript
+
+Uri: https://phylex.space/images/giphy.gif
+File Name: c:\Downloaded Web Sites\phylex.space\images\giphy.gif
+Content Type: image/gif
+
+Uri: https://phylex.space/logo.png
+File Name: c:\Downloaded Web Sites\phylex.space\logo.png
+Content Type: image/png
+
+Uri: https://phylex.space/fonts/Group-518-1.svg
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\Group-518-1.svg
+Content Type: image/svg+xml
+
+Uri: https://phylex.space/images/transparent.png
+File Name: c:\Downloaded Web Sites\phylex.space\images\transparent.png
+Content Type: image/png
+
+Uri: https://phylex.space/fonts/Group-519-1.svg
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\Group-519-1.svg
+Content Type: image/svg+xml
+
+Uri: https://phylex.space/fonts/Polygon-Luminary-1.svg
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\Polygon-Luminary-1.svg
+Content Type: image/svg+xml
+
+Uri: https://phylex.space/fonts/Polygon-Luminary.svg
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\Polygon-Luminary.svg
+Content Type: image/svg+xml
+
+Uri: https://phylex.space/fonts/Polygon-Luminary-2.svg
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\Polygon-Luminary-2.svg
+Content Type: image/svg+xml
+
+Uri: https://phylex.space/js/email-decode.min.js
+File Name: c:\Downloaded Web Sites\phylex.space\js\email-decode.min.js
+Content Type: text/javascript
+
+Uri: https://phylex.space/js/regenerator-runtime.min.js
+File Name: c:\Downloaded Web Sites\phylex.space\js\regenerator-runtime.min.js
+Content Type: text/javascript
+
+Uri: https://phylex.space/js/wp-polyfill.min.js
+File Name: c:\Downloaded Web Sites\phylex.space\js\wp-polyfill.min.js
+Content Type: text/javascript
+
+Uri: https://phylex.space/js/index.js
+File Name: c:\Downloaded Web Sites\phylex.space\js\index.js
+Content Type: text/javascript
+
+Uri: https://phylex.space/js/jquery.countTo.js
+File Name: c:\Downloaded Web Sites\phylex.space\js\jquery.countTo.js
+Content Type: text/javascript
+
+Uri: https://phylex.space/js/isotope.pkgd.min.js
+File Name: c:\Downloaded Web Sites\phylex.space\js\isotope.pkgd.min.js
+Content Type: text/javascript
+
+Uri: https://phylex.space/js/owl.carousel.min.js
+File Name: c:\Downloaded Web Sites\phylex.space\js\owl.carousel.min.js
+Content Type: text/javascript
+
+Uri: https://phylex.space/js/jquery.magnific-popup.min.js
+File Name: c:\Downloaded Web Sites\phylex.space\js\jquery.magnific-popup.min.js
+Content Type: text/javascript
+
+Uri: https://phylex.space/js/jquery.scrollme.min.js
+File Name: c:\Downloaded Web Sites\phylex.space\js\jquery.scrollme.min.js
+Content Type: text/javascript
+
+Uri: https://phylex.space/js/tox-progress.js
+File Name: c:\Downloaded Web Sites\phylex.space\js\tox-progress.js
+Content Type: text/javascript
+
+Uri: https://phylex.space/js/load-more.js
+File Name: c:\Downloaded Web Sites\phylex.space\js\load-more.js
+Content Type: text/javascript
+
+Uri: https://phylex.space/js/circle-progress.min.js
+File Name: c:\Downloaded Web Sites\phylex.space\js\circle-progress.min.js
+Content Type: text/javascript
+
+Uri: https://phylex.space/js/jquery.mCustomScrollbar.js
+File Name: c:\Downloaded Web Sites\phylex.space\js\jquery.mCustomScrollbar.js
+Content Type: text/javascript
+
+Uri: https://phylex.space/js/jquery-ui.min.js
+File Name: c:\Downloaded Web Sites\phylex.space\js\jquery-ui.min.js
+Content Type: text/javascript
+
+Uri: https://phylex.space/js/qs.slider.init.js
+File Name: c:\Downloaded Web Sites\phylex.space\js\qs.slider.init.js
+Content Type: text/javascript
+
+Uri: https://phylex.space/js/qs.slider.js
+File Name: c:\Downloaded Web Sites\phylex.space\js\qs.slider.js
+Content Type: text/javascript
+
+Uri: https://phylex.space/js/swiper-bundle.min.js
+File Name: c:\Downloaded Web Sites\phylex.space\js\swiper-bundle.min.js
+Content Type: text/javascript
+
+Uri: https://phylex.space/js/plugin-custom.js
+File Name: c:\Downloaded Web Sites\phylex.space\js\plugin-custom.js
+Content Type: text/javascript
+
+Uri: https://phylex.space/js/jquery.blockUI.min.js
+File Name: c:\Downloaded Web Sites\phylex.space\js\jquery.blockUI.min.js
+Content Type: text/javascript
+
+Uri: https://phylex.space/js/add-to-cart.min.js
+File Name: c:\Downloaded Web Sites\phylex.space\js\add-to-cart.min.js
+Content Type: text/javascript
+
+Uri: https://phylex.space/js/js.cookie.min.js
+File Name: c:\Downloaded Web Sites\phylex.space\js\js.cookie.min.js
+Content Type: text/javascript
+
+Uri: https://phylex.space/js/woocommerce.min.js
+File Name: c:\Downloaded Web Sites\phylex.space\js\woocommerce.min.js
+Content Type: text/javascript
+
+Uri: https://phylex.space/js/cart-fragments.min.js
+File Name: c:\Downloaded Web Sites\phylex.space\js\cart-fragments.min.js
+Content Type: text/javascript
+
+Uri: https://phylex.space/js/popper.min.js
+File Name: c:\Downloaded Web Sites\phylex.space\js\popper.min.js
+Content Type: text/javascript
+
+Uri: https://phylex.space/js/bootstrap.min.js
+File Name: c:\Downloaded Web Sites\phylex.space\js\bootstrap.min.js
+Content Type: text/javascript
+
+Uri: https://phylex.space/js/script.js
+File Name: c:\Downloaded Web Sites\phylex.space\js\script.js
+Content Type: text/javascript
+
+Uri: https://phylex.space/js/domaincheck.js
+File Name: c:\Downloaded Web Sites\phylex.space\js\domaincheck.js
+Content Type: text/javascript
+
+Uri: https://phylex.space/js/webpack.runtime.min.js
+File Name: c:\Downloaded Web Sites\phylex.space\js\webpack.runtime.min.js
+Content Type: text/javascript
+
+Uri: https://phylex.space/js/frontend-modules.min.js
+File Name: c:\Downloaded Web Sites\phylex.space\js\frontend-modules.min.js
+Content Type: text/javascript
+
+Uri: https://phylex.space/js/waypoints.min.js
+File Name: c:\Downloaded Web Sites\phylex.space\js\waypoints.min.js
+Content Type: text/javascript
+
+Uri: https://phylex.space/js/core.min.js
+File Name: c:\Downloaded Web Sites\phylex.space\js\core.min.js
+Content Type: text/javascript
+
+Uri: https://phylex.space/js/swiper.min.js
+File Name: c:\Downloaded Web Sites\phylex.space\js\swiper.min.js
+Content Type: text/javascript
+
+Uri: https://phylex.space/js/share-link.min.js
+File Name: c:\Downloaded Web Sites\phylex.space\js\share-link.min.js
+Content Type: text/javascript
+
+Uri: https://phylex.space/js/dialog.min.js
+File Name: c:\Downloaded Web Sites\phylex.space\js\dialog.min.js
+Content Type: text/javascript
+
+Uri: https://phylex.space/js/frontend.min.js
+File Name: c:\Downloaded Web Sites\phylex.space\js\frontend.min.js
+Content Type: text/javascript
+
+Uri: https://phylex.space/js/preloaded-modules.min.js
+File Name: c:\Downloaded Web Sites\phylex.space\js\preloaded-modules.min.js
+Content Type: text/javascript
+
+Uri: https://phylex.space/images/logo.png
+File Name: c:\Downloaded Web Sites\phylex.space\images\logo.png
+Content Type: image/png
+
+Uri: https://phylex.space/images/1-1.png
+File Name: c:\Downloaded Web Sites\phylex.space\images\1-1.png
+Content Type: image/png
+
+Uri: https://phylex.space/images/2-1-1.png
+File Name: c:\Downloaded Web Sites\phylex.space\images\2-1-1.png
+Content Type: image/png
+
+Uri: https://phylex.space/fonts/Group-514-1.svg
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\Group-514-1.svg
+Content Type: image/svg+xml
+
+Uri: https://phylex.space/fonts/Group-520-1.svg
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\Group-520-1.svg
+Content Type: image/svg+xml
+
+Uri: https://phylex.space/fonts/Group-515-1.svg
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\Group-515-1.svg
+Content Type: image/svg+xml
+
+Uri: https://phylex.space/images/5.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\5.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/2.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\2.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/3.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\3.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/1.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\1.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/7.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\7.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/8-1.png
+File Name: c:\Downloaded Web Sites\phylex.space\images\8-1.png
+Content Type: image/png
+
+Uri: https://phylex.space/images/7.png
+File Name: c:\Downloaded Web Sites\phylex.space\images\7.png
+Content Type: image/png
+
+Uri: https://phylex.space/images/6-1.png
+File Name: c:\Downloaded Web Sites\phylex.space\images\6-1.png
+Content Type: image/png
+
+Uri: https://phylex.space/images/5-1.png
+File Name: c:\Downloaded Web Sites\phylex.space\images\5-1.png
+Content Type: image/png
+
+Uri: https://phylex.space/images/4-1.png
+File Name: c:\Downloaded Web Sites\phylex.space\images\4-1.png
+Content Type: image/png
+
+Uri: https://phylex.space/images/3-1.png
+File Name: c:\Downloaded Web Sites\phylex.space\images\3-1.png
+Content Type: image/png
+
+Uri: https://phylex.space/images/6.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\6.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/1-1.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/10.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\10.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/1-2.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/2-1.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/3-1.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/4-1.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/5-1.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/6-1.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\6-1.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/7-2.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\7-2.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/8.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\8.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/9-1.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\9-1.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/10-1.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\10-1.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/logo-w.png
+File Name: c:\Downloaded Web Sites\phylex.space\images\logo-w.png
+Content Type: image/png
+
+Uri: https://phylex.space/images/1-2-600x343.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\1-2-600x343.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/1-2-300x171.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\1-2-300x171.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/1-2-1024x585.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\1-2-1024x585.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/1-2-768x439.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\1-2-768x439.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/2-1-600x343.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\2-1-600x343.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/2-1-300x171.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\2-1-300x171.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/2-1-1024x585.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\2-1-1024x585.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/2-1-768x439.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\2-1-768x439.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/3-1-600x343.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\3-1-600x343.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/3-1-300x171.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\3-1-300x171.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/3-1-1024x585.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\3-1-1024x585.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/3-1-768x439.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\3-1-768x439.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/4-1-600x343.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\4-1-600x343.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/4-1-300x171.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\4-1-300x171.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/4-1-1024x585.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\4-1-1024x585.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/4-1-768x439.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\4-1-768x439.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/5-1-600x343.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\5-1-600x343.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/5-1-300x171.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\5-1-300x171.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/5-1-1024x585.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\5-1-1024x585.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/5-1-768x439.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\5-1-768x439.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/6-1-600x343.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\6-1-600x343.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/6-1-300x171.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\6-1-300x171.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/6-1-1024x585.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\6-1-1024x585.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/6-1-768x439.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\6-1-768x439.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/7-2-600x343.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\7-2-600x343.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/7-2-300x171.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\7-2-300x171.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/7-2-1024x585.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\7-2-1024x585.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/7-2-768x439.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\7-2-768x439.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/8-600x343.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\8-600x343.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/8-300x171.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\8-300x171.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/8-1024x585.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\8-1024x585.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/8-768x439.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\8-768x439.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/9-1-600x343.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\9-1-600x343.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/9-1-300x171.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\9-1-300x171.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/9-1-1024x585.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\9-1-1024x585.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/9-1-768x439.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\9-1-768x439.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/10-1-600x343.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\10-1-600x343.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/10-1-300x171.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\10-1-300x171.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/10-1-1024x585.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\10-1-1024x585.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/10-1-768x439.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\images\10-1-768x439.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/images/owl.video.play.png
+File Name: c:\Downloaded Web Sites\phylex.space\images\owl.video.play.png
+Content Type: image/png
+
+Uri: https://phylex.space/fonts/ionicons.eot
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\ionicons.eot
+Content Type: 
+
+Uri: https://phylex.space/fonts/ionicons.ttf
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\ionicons.ttf
+Content Type: 
+
+Uri: https://phylex.space/fonts/ionicons.woff
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\ionicons.woff
+Content Type: 
+
+Uri: https://phylex.space/fonts/ionicons.svg
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\ionicons.svg
+Content Type: image/svg+xml
+
+Uri: https://phylex.space/fonts/Flaticon.eot
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\Flaticon.eot
+Content Type: 
+
+Uri: https://phylex.space/fonts/Flaticon.woff2
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\Flaticon.woff2
+Content Type: 
+
+Uri: https://phylex.space/fonts/Flaticon.woff
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\Flaticon.woff
+Content Type: 
+
+Uri: https://phylex.space/fonts/Flaticon.ttf
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\Flaticon.ttf
+Content Type: 
+
+Uri: https://phylex.space/fonts/Flaticon.svg
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\Flaticon.svg
+Content Type: image/svg+xml
+
+Uri: https://phylex.space/images/mCSB_buttons.png
+File Name: c:\Downloaded Web Sites\phylex.space\images\mCSB_buttons.png
+Content Type: image/png
+
+Uri: https://phylex.space/fonts/revicons.eot
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\revicons.eot
+Content Type: 
+
+Uri: https://phylex.space/fonts/revicons.woff
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\revicons.woff
+Content Type: 
+
+Uri: https://phylex.space/fonts/revicons.ttf
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\revicons.ttf
+Content Type: 
+
+Uri: https://phylex.space/fonts/revicons.svg
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\revicons.svg
+Content Type: image/svg+xml
+
+Uri: https://phylex.space/openhand.cur
+File Name: c:\Downloaded Web Sites\phylex.space\openhand.cur
+Content Type: 
+
+Uri: https://phylex.space/closedhand.cur
+File Name: c:\Downloaded Web Sites\phylex.space\closedhand.cur
+Content Type: 
+
+Uri: https://phylex.space/images/gridtile.png
+File Name: c:\Downloaded Web Sites\phylex.space\images\gridtile.png
+Content Type: image/png
+
+Uri: https://phylex.space/images/gridtile_white.png
+File Name: c:\Downloaded Web Sites\phylex.space\images\gridtile_white.png
+Content Type: image/png
+
+Uri: https://phylex.space/images/gridtile_3x3.png
+File Name: c:\Downloaded Web Sites\phylex.space\images\gridtile_3x3.png
+Content Type: image/png
+
+Uri: https://phylex.space/images/gridtile_3x3_white.png
+File Name: c:\Downloaded Web Sites\phylex.space\images\gridtile_3x3_white.png
+Content Type: image/png
+
+Uri: https://phylex.space/images/coloredbg.png
+File Name: c:\Downloaded Web Sites\phylex.space\images\coloredbg.png
+Content Type: image/png
+
+Uri: https://phylex.space/images/loader.gif
+File Name: c:\Downloaded Web Sites\phylex.space\images\loader.gif
+Content Type: image/gif
+
+Uri: https://phylex.space/fonts/star.eot
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\star.eot
+Content Type: 
+
+Uri: https://phylex.space/fonts/star.woff
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\star.woff
+Content Type: 
+
+Uri: https://phylex.space/fonts/star.ttf
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\star.ttf
+Content Type: 
+
+Uri: https://phylex.space/fonts/star.svg
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\star.svg
+Content Type: image/svg+xml
+
+Uri: https://phylex.space/fonts/WooCommerce.eot
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\WooCommerce.eot
+Content Type: 
+
+Uri: https://phylex.space/fonts/WooCommerce.woff
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\WooCommerce.woff
+Content Type: 
+
+Uri: https://phylex.space/fonts/WooCommerce.ttf
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\WooCommerce.ttf
+Content Type: 
+
+Uri: https://phylex.space/fonts/WooCommerce.svg
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\WooCommerce.svg
+Content Type: image/svg+xml
+
+Uri: https://phylex.space/fonts/loader.svg
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\loader.svg
+Content Type: image/svg+xml
+
+Uri: https://phylex.space/fonts/visa.svg
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\visa.svg
+Content Type: image/svg+xml
+
+Uri: https://phylex.space/fonts/mastercard.svg
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\mastercard.svg
+Content Type: image/svg+xml
+
+Uri: https://phylex.space/fonts/laser.svg
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\laser.svg
+Content Type: image/svg+xml
+
+Uri: https://phylex.space/fonts/diners.svg
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\diners.svg
+Content Type: image/svg+xml
+
+Uri: https://phylex.space/fonts/maestro.svg
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\maestro.svg
+Content Type: image/svg+xml
+
+Uri: https://phylex.space/fonts/jcb.svg
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\jcb.svg
+Content Type: image/svg+xml
+
+Uri: https://phylex.space/fonts/amex.svg
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\amex.svg
+Content Type: image/svg+xml
+
+Uri: https://phylex.space/fonts/discover.svg
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\discover.svg
+Content Type: image/svg+xml
+
+Uri: https://phylex.space/fonts/eicons.eot
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\eicons.eot
+Content Type: 
+
+Uri: https://phylex.space/fonts/eicons.woff2
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\eicons.woff2
+Content Type: 
+
+Uri: https://phylex.space/fonts/eicons.woff
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\eicons.woff
+Content Type: 
+
+Uri: https://phylex.space/fonts/eicons.ttf
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\eicons.ttf
+Content Type: 
+
+Uri: https://phylex.space/fonts/eicons.svg
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://phylex.space/fonts/fa-brands-400_1.eot
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\fa-brands-400_1.eot
+Content Type: 
+
+Uri: https://phylex.space/fonts/fa-brands-400_1.woff2
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\fa-brands-400_1.woff2
+Content Type: 
+
+Uri: https://phylex.space/fonts/fa-brands-400_1.woff
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\fa-brands-400_1.woff
+Content Type: 
+
+Uri: https://phylex.space/fonts/fa-brands-400_1.ttf
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\fa-brands-400_1.ttf
+Content Type: 
+
+Uri: https://phylex.space/fonts/fa-brands-400_1.svg
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\fa-brands-400_1.svg
+Content Type: image/svg+xml
+
+Uri: https://phylex.space/fonts/fa-regular-400_1.eot
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\fa-regular-400_1.eot
+Content Type: 
+
+Uri: https://phylex.space/fonts/fa-regular-400_1.woff2
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\fa-regular-400_1.woff2
+Content Type: 
+
+Uri: https://phylex.space/fonts/fa-regular-400_1.woff
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\fa-regular-400_1.woff
+Content Type: 
+
+Uri: https://phylex.space/fonts/fa-regular-400_1.ttf
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\fa-regular-400_1.ttf
+Content Type: 
+
+Uri: https://phylex.space/fonts/fa-regular-400_1.svg
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\fa-regular-400_1.svg
+Content Type: image/svg+xml
+
+Uri: https://phylex.space/fonts/fa-solid-900.eot
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\fa-solid-900.eot
+Content Type: 
+
+Uri: https://phylex.space/fonts/fa-solid-900.woff2
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\fa-solid-900.woff2
+Content Type: 
+
+Uri: https://phylex.space/fonts/fa-solid-900.woff
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\fa-solid-900.woff
+Content Type: 
+
+Uri: https://phylex.space/fonts/fa-solid-900.ttf
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\fa-solid-900.ttf
+Content Type: 
+
+Uri: https://phylex.space/fonts/fa-solid-900.svg
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://phylex.space/fonts/Polygon-Luminary-3.svg
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\Polygon-Luminary-3.svg
+Content Type: image/svg+xml
+
+Uri: https://phylex.space/fonts/fa-brands-400.eot
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\fa-brands-400.eot
+Content Type: 
+
+Uri: https://phylex.space/fonts/fa-brands-400.woff2
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\fa-brands-400.woff2
+Content Type: 
+
+Uri: https://phylex.space/fonts/fa-brands-400.woff
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\fa-brands-400.woff
+Content Type: 
+
+Uri: https://phylex.space/fonts/fa-brands-400.ttf
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\fa-brands-400.ttf
+Content Type: 
+
+Uri: https://phylex.space/fonts/fa-brands-400.svg
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://phylex.space/fonts/fa-regular-400.eot
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\fa-regular-400.eot
+Content Type: 
+
+Uri: https://phylex.space/fonts/fa-regular-400.woff2
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\fa-regular-400.woff2
+Content Type: 
+
+Uri: https://phylex.space/fonts/fa-regular-400.woff
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\fa-regular-400.woff
+Content Type: 
+
+Uri: https://phylex.space/fonts/fa-regular-400.ttf
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\fa-regular-400.ttf
+Content Type: 
+
+Uri: https://phylex.space/fonts/fa-regular-400.svg
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://phylex.space/fonts/fa-solid-900_1.eot
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\fa-solid-900_1.eot
+Content Type: 
+
+Uri: https://phylex.space/fonts/fa-solid-900_1.woff2
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\fa-solid-900_1.woff2
+Content Type: 
+
+Uri: https://phylex.space/fonts/fa-solid-900_1.woff
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\fa-solid-900_1.woff
+Content Type: 
+
+Uri: https://phylex.space/fonts/fa-solid-900_1.ttf
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\fa-solid-900_1.ttf
+Content Type: 
+
+Uri: https://phylex.space/fonts/fa-solid-900_1.svg
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\fa-solid-900_1.svg
+Content Type: image/svg+xml
+
+Uri: https://phylex.space/fonts/ionicons_1.eot
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\ionicons_1.eot
+Content Type: 
+
+Uri: https://phylex.space/fonts/ionicons_1.ttf
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\ionicons_1.ttf
+Content Type: 
+
+Uri: https://phylex.space/fonts/ionicons_1.woff
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\ionicons_1.woff
+Content Type: 
+
+Uri: https://phylex.space/fonts/ionicons_1.svg
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\ionicons_1.svg
+Content Type: image/svg+xml
+
+Uri: https://phylex.space/fonts/la-brands-400.eot
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\la-brands-400.eot
+Content Type: 
+
+Uri: https://phylex.space/fonts/la-brands-400.woff2
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\la-brands-400.woff2
+Content Type: 
+
+Uri: https://phylex.space/fonts/la-brands-400.woff
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\la-brands-400.woff
+Content Type: 
+
+Uri: https://phylex.space/fonts/la-brands-400.ttf
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\la-brands-400.ttf
+Content Type: 
+
+Uri: https://phylex.space/fonts/la-brands-400.svg
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\la-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://phylex.space/fonts/la-regular-400.eot
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\la-regular-400.eot
+Content Type: 
+
+Uri: https://phylex.space/fonts/la-regular-400.woff2
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\la-regular-400.woff2
+Content Type: 
+
+Uri: https://phylex.space/fonts/la-regular-400.woff
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\la-regular-400.woff
+Content Type: 
+
+Uri: https://phylex.space/fonts/la-regular-400.ttf
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\la-regular-400.ttf
+Content Type: 
+
+Uri: https://phylex.space/fonts/la-regular-400.svg
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\la-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://phylex.space/fonts/la-solid-900.eot
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\la-solid-900.eot
+Content Type: 
+
+Uri: https://phylex.space/fonts/la-solid-900.woff2
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\la-solid-900.woff2
+Content Type: 
+
+Uri: https://phylex.space/fonts/la-solid-900.woff
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\la-solid-900.woff
+Content Type: 
+
+Uri: https://phylex.space/fonts/la-solid-900.ttf
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\la-solid-900.ttf
+Content Type: 
+
+Uri: https://phylex.space/fonts/la-solid-900.svg
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\la-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://phylex.space/fonts/Polygon-Luminary-2_1.svg
+File Name: c:\Downloaded Web Sites\phylex.space\fonts\Polygon-Luminary-2_1.svg
+Content Type: image/svg+xml
+
+Uri: https://phylex.space/order/css2?family=Russo+One&display=swap
+File Name: c:\Downloaded Web Sites\phylex.space\order\css2
+Content Type: 
+
+Uri: https://phylex.space/order/css2-1?family=Roboto:wght@400;500;700&display=swap
+File Name: c:\Downloaded Web Sites\phylex.space\order\css2-1
+Content Type: 
+
+Uri: https://phylex.space/order/bundle/bundle-82840984608eb71566c6.css
+File Name: c:\Downloaded Web Sites\phylex.space\order\bundle\bundle-82840984608eb71566c6.css
+Content Type: text/css
+
+Uri: https://phylex.space/order/img/favicon.png
+File Name: c:\Downloaded Web Sites\phylex.space\order\img\favicon.png
+Content Type: image/png
+
+Uri: https://phylex.space/order/bundle/bundle-82840984608eb71566c6.js
+File Name: c:\Downloaded Web Sites\phylex.space\order\bundle\bundle-82840984608eb71566c6.js
+Content Type: text/javascript
+
+Uri: https://phylex.space/order/watch/71577532
+File Name: c:\Downloaded Web Sites\phylex.space\order\watch\71577532
+Content Type: 
+
+Uri: https://phylex.space/order/gtag/js?id=G-DZ4GLFPE9V
+File Name: c:\Downloaded Web Sites\phylex.space\order\gtag\js
+Content Type: 
+
+Uri: https://phylex.space/order/gtag/js-1?id=UA-18832840
+9-1
+File Name: c:\Downloaded Web Sites\phylex.space\order\gtag\js-1
+Content Type: 
+
+Uri: https://phylex.space/order/img/longTopBg.jpg
+File Name: c:\Downloaded Web Sites\phylex.space\order\img\longTopBg.jpg
+Content Type: image/jpeg
+
+Uri: https://phylex.space/order/img/minBgCloud.png
+File Name: c:\Downloaded Web Sites\phylex.space\order\img\minBgCloud.png
+Content Type: image/png
+
+Uri: https://phylex.space/order/img/notFoundBg.png
+File Name: c:\Downloaded Web Sites\phylex.space\order\img\notFoundBg.png
+Content Type: image/png
+
+Uri: https://phylex.space/order/img/cloud.png
+File Name: c:\Downloaded Web Sites\phylex.space\order\img\cloud.png
+Content Type: image/png
+
+Uri: https://phylex.space/order/img/molniya.png
+File Name: c:\Downloaded Web Sites\phylex.space\order\img\molniya.png
+Content Type: image/png
+
+Uri: https://phylex.space/order/img/iCheckArea.png
+File Name: c:\Downloaded Web Sites\phylex.space\order\img\iCheckArea.png
+Content Type: image/png
+
+Uri: https://phylex.space/order/img/iCheckAreaActive.png
+File Name: c:\Downloaded Web Sites\phylex.space\order\img\iCheckAreaActive.png
+Content Type: image/png
+
+Uri: https://phylex.space/order/img/itoggleComments.png
+File Name: c:\Downloaded Web Sites\phylex.space\order\img\itoggleComments.png
+Content Type: image/png
+
+Uri: https://phylex.space/order/img/iLogs.svg
+File Name: c:\Downloaded Web Sites\phylex.space\order\img\iLogs.svg
+Content Type: image/svg+xml
+
+Uri: https://phylex.space/order/img/iMessage.png
+File Name: c:\Downloaded Web Sites\phylex.space\order\img\iMessage.png
+Content Type: image/png
+
+Uri: https://phylex.space/order/img/iPeople.png
+File Name: c:\Downloaded Web Sites\phylex.space\order\img\iPeople.png
+Content Type: image/png
+
+Uri: https://phylex.space/order/img/iEye.png
+File Name: c:\Downloaded Web Sites\phylex.space\order\img\iEye.png
+Content Type: image/png
+
+Uri: https://phylex.space/order/img/iChange.png
+File Name: c:\Downloaded Web Sites\phylex.space\order\img\iChange.png
+Content Type: image/png
+
+Uri: https://phylex.space/order/img/AnswerMoving.png
+File Name: c:\Downloaded Web Sites\phylex.space\order\img\AnswerMoving.png
+Content Type: image/png
+
+Uri: https://phylex.space/order/img/IEyeClose.png
+File Name: c:\Downloaded Web Sites\phylex.space\order\img\IEyeClose.png
+Content Type: image/png
+
+Uri: https://phylex.space/order/img/iEyeOpen.png
+File Name: c:\Downloaded Web Sites\phylex.space\order\img\iEyeOpen.png
+Content Type: image/png
+
+Uri: https://phylex.space/order/img/arrow.svg
+File Name: c:\Downloaded Web Sites\phylex.space\order\img\arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://phylex.space/order/img/ilustracia-1.png
+File Name: c:\Downloaded Web Sites\phylex.space\order\img\ilustracia-1.png
+Content Type: image/png
+
+Uri: https://phylex.space/order/img/ilustracia-2.png
+File Name: c:\Downloaded Web Sites\phylex.space\order\img\ilustracia-2.png
+Content Type: image/png
+
+Uri: https://phylex.space/order/img/ilustracia-3.png
+File Name: c:\Downloaded Web Sites\phylex.space\order\img\ilustracia-3.png
+Content Type: image/png
+
+Uri: https://phylex.space/order/img/slideButton.svg
+File Name: c:\Downloaded Web Sites\phylex.space\order\img\slideButton.svg
+Content Type: image/svg+xml
+
